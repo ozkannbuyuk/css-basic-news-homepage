@@ -2,6 +2,10 @@
    CSS - Basic News Homepage
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/css-basic-news-homepage/assets/111967202/89571615-79ed-42e3-aeb3-60bd970d6cbe" width="700" />
 </p>
